@@ -18,7 +18,7 @@ This project demonstrates basic data cleaning, analysis, and visualization using
 ---
 
 ## 📁 Files
-- customer_data_analysis_dashboard.xlsx
+- customer_analysis_dashboard.xlsx
 
 ---
 
